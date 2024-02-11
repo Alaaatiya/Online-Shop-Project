@@ -30,26 +30,7 @@ This project is an online shop where users can add products with details such as
    - Update the product information.
    - Click on the "Save" button to apply the changes.
 
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to the development of this project, please follow these guidelines:
-- Fork the repository.
-- Create a new branch for your feature or bug fix.
-- Make your changes and submit a pull request.
-- Ensure your code follows the project's coding standards.
-
-## License
-
-[Specify the license under which your project is distributed.]
-
-## Acknowledgements
-
-[Optional: Acknowledge any individuals, libraries, or resources that have helped or inspired your project.]
-
-## Support
-
-For support or inquiries, please refer to the project's documentation or contact [insert contact information here].
 
 ## Contact
 
-For further questions or inquiries, feel free to reach out to [insert contact information here].
+ [alaa7aa237@gmail.com].
