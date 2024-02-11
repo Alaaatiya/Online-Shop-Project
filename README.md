@@ -10,10 +10,6 @@ This project is an online shop where users can add products with details such as
 - **Show All Products**: The website displays all available products, allowing users to browse and make purchases.
 - **Edit Products**: Users have the ability to edit product information, such as name, price, and image, to keep the shop up to date.
 
-## Installation
-
-[Provide instructions on how to install and set up the online shop project, including any dependencies or requirements.]
-
 ## Usage
 
 1. **Adding a Product**:
