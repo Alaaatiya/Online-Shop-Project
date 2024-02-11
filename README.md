@@ -30,6 +30,8 @@ This project is an online shop where users can add products with details such as
    - Update the product information.
    - Click on the "Save" button to apply the changes.
 
+![main](https://github.com/Alaaatiya/Online-Shop-Project/assets/159659121/9e8f9068-0587-4411-943d-89e9087c8a0c)
+
 
 ## Contact
 
